@@ -1,0 +1,9 @@
+.cs-primary-bg {
+    background-color: rgb(42, 42, 221);
+}
+
+.cs-btn-warning,
+.cs-btn-warning:hover {
+    background-color: rgb(214, 99, 16);
+    color: white;
+}
