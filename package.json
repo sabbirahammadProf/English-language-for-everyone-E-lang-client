@@ -37,5 +37,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "E-lang is an online market where you will find english course basic to advance. Professional tutor's are teaching english here. If you want to be expert english, join in our any course. If you are not expert in english you can start with basic course then join advance courses.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabbirahammadProf/English-language-for-everyone-E-lang-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabbirahammadProf/English-language-for-everyone-E-lang-client/issues"
+  },
+  "homepage": "https://github.com/sabbirahammadProf/English-language-for-everyone-E-lang-client#readme"
 }
